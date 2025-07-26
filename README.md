@@ -1,6 +1,6 @@
 <!-- Header dengan Animasi Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+REXREUS_0;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+💻;Open+Source+Enthusiast+🌟;Always+Learning+Something+New+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+REXREUS;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+💻;Open+Source+Enthusiast+🌟;Always+Learning+Something+New+📚" alt="Typing SVG" />
 </div>
 
 <!-- Header Image/GIF -->
@@ -10,7 +10,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=REXREUS_0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=REXREUS&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
 ---
