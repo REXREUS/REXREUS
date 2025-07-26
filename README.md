@@ -51,7 +51,7 @@ const REXREUS = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REXREUS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rexreus_o)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rexreus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rexreus@rexreus.my.id)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://example.com)
 
 </div>
@@ -290,7 +290,7 @@ Sunday        70 commits    ██░░░░░░░░░░░░░░░�
 
 💼 **I'm always open to interesting conversations and collaboration opportunities!**
 
-[![Gmail](https://img.shields.io/badge/Email-@@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rexreus@rexreus.my.id)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rexreus_o)
 [![Discord](https://img.shields.io/badge/Discord-Chat-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rexreus)
 
