@@ -27,8 +27,8 @@ const REXREUS = {
     role: "Full Stack Developer",
     languages: ["JavaScript", "Python", "Java", "TypeScript", "PHP","C++","C","C#"],
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    frameworks: ["React", "Vue.js", "Node.js", "Express", "Django"],
-    tools: ["Docker", "AWS", "Git", "VS Code", "Figma"],
+    frameworks: ["React", "Vue.js", "Node.js", "Express", "Django","Tensenflow"],
+    tools: ["Docker", "AWS", "Git", "VS Code", "Figma",],
     architecture: ["Microservices", "REST APIs", "GraphQL"],
     currentFocus: "Building scalable web applications,Machine-Learning & AI",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
