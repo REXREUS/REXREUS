@@ -135,7 +135,7 @@ const REXREUS = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-delta-blond.vercel.app/?username=REXREUS&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=REXREUS&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
