@@ -1,20 +1,4 @@
 # 🚀 REXREUS - GitHub Profile README
-
-## 🌐 GitHub Pages
-
-Repository ini sudah menyertakan static site untuk GitHub Pages pada file root berikut:
-- `/index.html`
-- `/styles.css`
-- `/script.js`
-
-### Cara publish
-1. Buka **Settings > Pages** di repository ini.
-2. Pada **Build and deployment**, pilih **Deploy from a branch**.
-3. Pilih source branch (umumnya branch default) dan folder **`/ (root)`**.
-4. Simpan, lalu tunggu proses deploy selesai.
-
-Site akan otomatis mengambil path relatif asset sehingga tetap berjalan pada project site maupun custom domain.
-
 <div align="center">
 
 <!-- Animated Header -->
